@@ -11,10 +11,10 @@ export const Routesp = () => {
             
             <Routes>
                 
-                <Route exact path="/search" element={<Results/>}/>
-                <Route exact path="/images" element={<Results/>}/>
-                <Route exact path="/news" element={<Results/>}/>
-                <Route exact path="/videos" element={<Results/>}/>
+                <Route exact path="find.r/search" element={<Results/>}/>
+                <Route exact path="find.r/images" element={<Results/>}/>
+                <Route exact path="find.r/news" element={<Results/>}/>
+                <Route exact path="find.r/videos" element={<Results/>}/>
             </Routes>
             
 
