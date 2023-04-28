@@ -1,5 +1,5 @@
 # Find.r - Google Search Clone
-Master React JS by Building Real Projects -  Build and Deploy Google Search 2.0 with React & Tailwind CSS
+01 - Master React JS by Building Real Projects -  Build and Deploy Google Search 2.0 with React & Tailwind CSS
 
 ## Introduction
 This is a code repository just for learning using the corresponding video tutorial. 
